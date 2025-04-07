@@ -90,8 +90,6 @@ Happy querying!
 ---
 
 ### 📫 Let's Connect  
-Follow me on [LinkedIn](https://linkedin.com/in/yourname) or [Twitter](https://twitter.com/yourhandle) for more SQL tips & tech career content.
+Follow me on [LinkedIn](https://linkedin.com/in/jahagirdarsharvari/) for more SQL tips & tech career content.
 
 ---
-
-Want to add anything else like badges, a logo, or a section on difficulty levels?
