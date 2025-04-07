@@ -1,5 +1,6 @@
 # SQL_Interviews_Practice
-Absolutely! Here's the updated **README** without the folder structure section:
+
+Sharpen your SQL skills with real interview-style problems! This repo offers hands-on practice with data transformations, aggregations, string parsing, and more—perfect for data analysts, engineers, and anyone prepping for SQL interviews. Query with confidence!
 
 ---
 
